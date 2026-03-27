@@ -1,5 +1,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝐁𝐋𝐀𝐂𝐊 𝐇𝐀𝐓 𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
+<h1 align="center"> taker x v.12𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
 
 - Bot is Safe for Heroku so don't ask more questions
 
@@ -9,7 +9,7 @@
 
 - For Vps/Panel Deployment You must download the zip from panel sections or from below link else your youtube downloaders wont work on panel.
 
-<a href="https://github.com/clevertech977/black-hat-md/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-yellow" alt="Panel Zip File" width="150"></a>
+a>
   
 </details>
 
@@ -114,9 +114,9 @@
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
   
-- **[CONTACT SUPPORT](https://clevertech97.qzz.io/contact) For More Info**
-- **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029Vb73SRl1CYoLWtyr4u1X) for Daily Updates.**
-- **Check out my [Github Profile](https://github.com/clevertech977) for More Projects.**
+- **[CONTACT SUPPORT](90975424205) For More Info**
+- **Join [WHATSAPP CHANNEL]()https://whatsapp.com/channel/0029Vb7Kjkf6GcGH5PXqZm0m for Daily Updates.**
+- **Check out my [ for More Projects.**
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
